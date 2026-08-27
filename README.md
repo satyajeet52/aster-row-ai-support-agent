@@ -8,7 +8,7 @@
 
 An enterprise-grade, deterministic customer support agent built for **Aster & Row** (a fictional ecommerce brand selling bags, drinkware, and travel gear). The agent implements retrieval-augmented generation (RAG) over official policy documentation, safe tool-assisted order lookups, multi-turn session awareness, prompt-injection resilience, and human-handoff routing.
 
-![Aster & Row Support Demo](demo.webp)
+![Aster & Row Support Demo](demo.gif)
 
 ---
 
@@ -599,4 +599,4 @@ The demonstration covers:
 
 [**Watch the Working Demo Video (`demo.mp4`)**](demo.mp4)
 
-![Aster & Row AI Support Agent Demo](demo.webp)
+![Aster & Row AI Support Agent Demo](demo.gif)
